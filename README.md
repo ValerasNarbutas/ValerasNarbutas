@@ -2,7 +2,7 @@
 I'm Valeras, a software developer
 
 ## 🚀 Skills
-Languages: TypeScript, JavaScript, SQL, HTML, CSS , c#, .NET
+/play rimshot
 
 <!-- ## 💻 Projects
 - Crypto Tracker - A React app that displays cryptocurrency prices and market data using the CoinGecko API.
