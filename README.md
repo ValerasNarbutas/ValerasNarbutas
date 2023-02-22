@@ -1,5 +1,10 @@
 # Hi there 👋
-I'm Valeras, a software developer
+
+**About me**
+
+- 💼 Software Developer
+
+- 💬 Ask me about anything [here](https://github.com/valerasnarbutas/valerasnarbutas/issues)
 
 ## 🚀 Skills
 https://user-images.githubusercontent.com/16476453/220737986-5d6ac71c-48df-45c4-8881-6e5adbf40801.mp4
@@ -19,6 +24,7 @@ Valeras Narbutas
 
 
 ## Stats
+
 ![Valeras github stats](https://github-readme-stats.vercel.app/api?username=ValerasNarbutas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 
