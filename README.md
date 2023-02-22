@@ -2,7 +2,7 @@
 I'm Valeras, a software developer
 
 ## 🚀 Skills
-[🎵](/assets/trolo.mp4)
+https://user-images.githubusercontent.com/16476453/220737986-5d6ac71c-48df-45c4-8881-6e5adbf40801.mp4
 
 <!-- ## 💻 Projects
 - Crypto Tracker - A React app that displays cryptocurrency prices and market data using the CoinGecko API.
@@ -15,3 +15,7 @@ I'm Valeras, a software developer
 Thanks for stopping by!
 
 Valeras Narbutas
+
+
+
+
