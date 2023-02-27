@@ -18,8 +18,7 @@ https://user-images.githubusercontent.com/16476453/220737986-5d6ac71c-48df-45c4-
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/valerasnarbutas/)
 
-![You can by me a coffee here](https://www.buymeacoffee.com/valerasn)
-
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/valerasn)
 Thanks for stopping by!
 
 Valeras Narbutas
