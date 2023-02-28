@@ -2,6 +2,10 @@
 
 **About me**
 
+Microsoft365 developer, sharepoint lover
+
+#spfx #MSteamsApps #powershell #typescript #powerplatform #MSGraph #SharingIsCaring #mentor #womenGotech
+
 - 💼 Software Developer
 
 - 💬 Ask me about anything [here](https://github.com/valerasnarbutas/valerasnarbutas/issues)
