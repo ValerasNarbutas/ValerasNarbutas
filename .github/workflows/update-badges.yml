@@ -15,4 +15,6 @@ jobs:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
         with:
-          CREDLY_USER: valeras-narbutas
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: "My commit message to update badges" # optional
+          CREDLY_USER: valeras-narbutas # optional, but default will use the same from github
