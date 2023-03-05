@@ -28,6 +28,10 @@ https://user-images.githubusercontent.com/16476453/220737986-5d6ac71c-48df-45c4-
 
 Valeras Narbutas
 
+## My Badges
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
 
 ## Stats
 
