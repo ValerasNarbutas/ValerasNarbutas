@@ -2,16 +2,37 @@
 
 **About me**
 
-Microsoft365 developer, sharepoint lover
+
+
+
+
+👋 Greetings!
+
+👨‍💻 I'm [Your Name], a developer based in [Your City, Country].
+
+💻 Currently, I'm contributing to Microsoft 365 Patterns and Practices, an open source initiative that provides guidance and best practices for developing solutions on the Microsoft 365 platform.
+
+💡 I believe that creating open source code and helping the community is important because it allows us to collaborate, learn from each other, and make a positive impact on the world. By contributing to open source projects, we can make technology more accessible, secure, and useful for everyone.
+
+🙌 I'm proud to be a part of this community and look forward to continuing to contribute to open source initiatives. Thank you for your support!
+
+🌟 In addition to my work on open source projects, I'm also a mentor in Women in Tech, a program that supports and empowers women in technology.
+
+👩‍🏫 As a mentor, I work with aspiring women technologists to provide guidance, advice, and support as they navigate their careers.
+
+💪 I'm passionate about helping to create a more diverse and inclusive tech industry, and believe that mentorship is one of the most effective ways to do so.
+
+👩‍💻 By working with women in tech, I hope to help inspire the next generation of technologists and create a more equitable and innovative tech industry for all.
+
+
+💬 Ask me about anything [here](https://github.com/valerasnarbutas/valerasnarbutas/issues)
 
 #spfx #MSteamsApps #powershell #typescript #powerplatform #MSGraph #SharingIsCaring #mentor #womenGotech
 
-- 💼 Software Developer
-
-- 💬 Ask me about anything [here](https://github.com/valerasnarbutas/valerasnarbutas/issues)
-
 ## 🚀 Skills
 https://user-images.githubusercontent.com/16476453/220737986-5d6ac71c-48df-45c4-8881-6e5adbf40801.mp4
+
+#Microsoft365 #JavaScript #TypeScript #CSharp #PowerShell #React #Angular #VisualStudio #VisualStudioCode #MicrosoftPowerPlatform #MicrosoftGraphAPI #RESTAPIs #SharePoint #AzureActiveDirectory #AzureFunctions #AzureStorage #DevOps #ContinuousIntegration #ContinuousDeployment #ProblemSolving #CommunicationSkills
 
 <!-- ## 💻 Projects
 - Crypto Tracker - A React app that displays cryptocurrency prices and market data using the CoinGecko API.
