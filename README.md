@@ -8,7 +8,7 @@
 
 👋 Greetings!
 
-👨‍💻 I'm [Your Name], a developer based in [Your City, Country].
+👨‍💻 I'm Valeras Narbutas, a developer based in Vilnius, Lithuania.
 
 💻 Currently, I'm contributing to Microsoft 365 Patterns and Practices, an open source initiative that provides guidance and best practices for developing solutions on the Microsoft 365 platform.
 
