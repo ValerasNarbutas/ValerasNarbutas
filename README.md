@@ -2,10 +2,6 @@
 
 **About me**
 
-
-
-
-
 👋 Greetings!
 
 👨‍💻 I'm Valeras Narbutas, a developer based in Vilnius, Lithuania.
@@ -30,15 +26,10 @@
 #spfx #MSteamsApps #powershell #typescript #powerplatform #MSGraph #SharingIsCaring #mentor #womenGotech
 
 ## 🚀 Skills
+
+#Microsoft365 🌐 #JavaScript 🚀 #TypeScript 📝 #CSharp 🖥️ #PowerShell 💻 #React ⚛️ #Angular 🔺 #VueJS 🌟 #VisualStudio 💼 #VisualStudioCode 📝 #MicrosoftPowerPlatform 💪 #MicrosoftGraphAPI 🔍 #RESTAPIs 🌐 #SharePoint 🧑‍💼 #AzureActiveDirectory 🔒 #AzureFunctions 🚀 #AzureStorage 💾 #DevOps 🛠️ #ContinuousIntegration 🔄 #ContinuousDeployment 🚀 #ProblemSolving 🤔 #CommunicationSkills 💬
+
 https://user-images.githubusercontent.com/16476453/220737986-5d6ac71c-48df-45c4-8881-6e5adbf40801.mp4
-
-#Microsoft365 #JavaScript #TypeScript #CSharp #PowerShell #React #Angular #VisualStudio #VisualStudioCode #MicrosoftPowerPlatform #MicrosoftGraphAPI #RESTAPIs #SharePoint #AzureActiveDirectory #AzureFunctions #AzureStorage #DevOps #ContinuousIntegration #ContinuousDeployment #ProblemSolving #CommunicationSkills
-
-<!-- ## 💻 Projects
-- Crypto Tracker - A React app that displays cryptocurrency prices and market data using the CoinGecko API.
-- Online Shop - A Spring Boot application that simulates an online shopping experience.
-- Task Manager - A Node.js app that allows users to create, update, and delete tasks. -->
-
 
 ## 📫 Contact Me
 - [LinkedIn](https://www.linkedin.com/in/valerasnarbutas/)
@@ -49,7 +40,7 @@ https://user-images.githubusercontent.com/16476453/220737986-5d6ac71c-48df-45c4-
 
 Valeras Narbutas
 
-## My Badges
+## 🏅 My Badges
 
 <!--START_SECTION:badges-->
 [![Community Contributor 2023](https://images.credly.com/size/110x110/images/166c85a3-1649-4fe6-bdab-daf203cb064a/image.png)](http://www.credly.com/badges/af20c610-89dd-4dcc-9067-e6912614dbaa "Community Contributor 2023")
