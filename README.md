@@ -27,7 +27,7 @@
 
 ## 🚀 Skills
 
-#Microsoft365 🌐 #JavaScript 🚀 #TypeScript 📝 #CSharp 🖥️ #PowerShell 💻 #React ⚛️ #Angular 🔺 #VueJS 🌟 #VisualStudio 💼 #VisualStudioCode 📝 #MicrosoftPowerPlatform 💪 #MicrosoftGraphAPI 🔍 #RESTAPIs 🌐 #SharePoint 🧑‍💼 #AzureActiveDirectory 🔒 #AzureFunctions 🚀 #AzureStorage 💾 #DevOps 🛠️ #ContinuousIntegration 🔄 #ContinuousDeployment 🚀 #ProblemSolving 🤔 #CommunicationSkills 💬
+#Microsoft365 🌐 #JavaScript 🚀 #TypeScript 📝 #CSharp 🖥️ #PowerShell 💻 #React ⚛️ #Angular 🔺 #VueJS 🌟 #VisualStudio 💼 #VisualStudioCode 📝 #MicrosoftPowerPlatform 💪 #MicrosoftGraphAPI 🔍 #RESTAPIs 💪 #SharePoint 🧑‍💼 #AzureActiveDirectory 🔒 #AzureFunctions 🚀 #AzureStorage 💾 #DevOps 🛠️ #ContinuousIntegration 🔄 #ContinuousDeployment 🚀 #ProblemSolving 🤔 #CommunicationSkills 💬
 
 https://user-images.githubusercontent.com/16476453/220737986-5d6ac71c-48df-45c4-8881-6e5adbf40801.mp4
 
