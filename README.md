@@ -50,9 +50,9 @@ Valeras Narbutas
 [![Microsoft 365 Certified: Teams Application Developer Associate](https://images.credly.com/size/110x110/images/ef2853b2-4faf-4d27-8dec-5ddd71aa82bc/CERT-Associate-Microsoft365-Developer.png)](http://www.credly.com/badges/d3d3dd09-0f6f-4fc2-ac9e-ba0918b61882 "Microsoft 365 Certified: Teams Application Developer Associate")
 <!--END_SECTION:badges-->
 
-## Stats
+<!-- ## Stats
 
-![Valeras github stats](https://github-readme-stats.vercel.app/api?username=ValerasNarbutas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+![Valeras github stats](https://github-readme-stats.vercel.app/api?username=ValerasNarbutas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ValerasNarbutas&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
@@ -60,7 +60,7 @@ Valeras Narbutas
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerasNarbutas&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ValerasNarbutas&icon=0&color=0)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ValerasNarbutas&label=Profile%20Views&color=0&pretty=true)](https://visitcount.itsvg.in)
 
 
 
