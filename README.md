@@ -20,6 +20,8 @@
 
 👩‍💻 By working with women in tech, I hope to help inspire the next generation of technologists and create a more equitable and innovative tech industry for all.
 
+[📄 View my CV](https://valerasnarbutas.github.io/cv/)
+
 
 💬 Ask me about anything [here](https://github.com/valerasnarbutas/valerasnarbutas/issues)
 
