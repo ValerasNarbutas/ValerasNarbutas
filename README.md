@@ -42,7 +42,7 @@ https://user-images.githubusercontent.com/16476453/220737986-5d6ac71c-48df-45c4-
 
 Valeras Narbutas
 
-## 🏅 My Badges
+## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
 [![Community Contributor 2023](https://images.credly.com/size/110x110/images/166c85a3-1649-4fe6-bdab-daf203cb064a/image.png)](http://www.credly.com/badges/af20c610-89dd-4dcc-9067-e6912614dbaa "Community Contributor 2023")
