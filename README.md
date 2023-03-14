@@ -59,12 +59,12 @@ Valeras Narbutas
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ValerasNarbutas&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ValerasNarbutas&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerasNarbutas&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerasNarbutas&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
 
 <!-- ---
 Profile views -->
 <!-- [![](https://visitcount.itsvg.in/api?id=ValerasNarbutas&label=Profile%20Views&color=0&icon=0&pretty=true)](https://visitcount.itsvg.in)  -->
-![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FValerasNarbutas%2F&countColor=%23555555)
+<!-- ![Visitors](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2FValerasNarbutas%2F&countColor=%23555555) -->
 
 
 
