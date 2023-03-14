@@ -56,8 +56,10 @@ Valeras Narbutas
 
 ![Valeras github stats](https://github-readme-stats.vercel.app/api?username=ValerasNarbutas&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515) -->
 
-<!--
 # 📊 Stats:
 ![](https://github-readme-stats.vercel.app/api?username=ValerasNarbutas&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+<!--
+
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ValerasNarbutas&theme=default&hide_border=false)<br/>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerasNarbutas&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact) -->
