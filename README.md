@@ -22,7 +22,6 @@
 
 [📄 View my resume (CV)](https://valerasnarbutas.github.io/cv/)
 
-
 💬 Ask me about anything [here](https://github.com/valerasnarbutas/valerasnarbutas/issues)
 
 #spfx #MSteamsApps #powershell #typescript #powerplatform #MSGraph #SharingIsCaring #mentor #womenGotech #react #angular
