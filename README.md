@@ -3,7 +3,7 @@
 **About me**
 
 👋 Greetings!    
-
+  
 👨‍💻 I'm Valeras Narbutas, a developer based in Vilnius, Lithuania.
 
 💻 Currently, I'm contributing to Microsoft 365 Patterns and Practices, an open source initiative that provides guidance and best practices for developing solutions on the Microsoft 365 platform.
@@ -56,7 +56,4 @@ Valeras Narbutas
 ![](https://github-readme-stats.vercel.app/api?username=ValerasNarbutas&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ValerasNarbutas&theme=default&hide_border=false)<br/>
  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ValerasNarbutas&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-<!--
-
- -->
+ 
