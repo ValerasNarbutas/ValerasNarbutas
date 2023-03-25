@@ -26,7 +26,7 @@
 
 #spfx #MSteamsApps #powershell #typescript #powerplatform #MSGraph #SharingIsCaring #mentor #womenGotech #react #angular
 
-## 🚀 Skills
+## 🚀 Skills  
 
 #Microsoft365 🌐 #JavaScript 🚀 #TypeScript 📝 #CSharp 🖥️ #PowerShell 💻 #React ⚛️ #Angular 🔺 #VueJS 🌟 #VisualStudio 💼 #VisualStudioCode 📝 #MicrosoftPowerPlatform 💪 #MicrosoftGraphAPI 🔍 #RESTAPIs 💪 #SharePoint 🧑‍💼 #AzureActiveDirectory 🔒 #AzureFunctions 🚀 #AzureStorage 💾 #DevOps 🛠️ #ContinuousIntegration 🔄 #ContinuousDeployment 🚀 #ProblemSolving 🤔 #CommunicationSkills 💬
 
