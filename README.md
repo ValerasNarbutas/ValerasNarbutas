@@ -2,7 +2,7 @@
 
 **About me**  
 
-👋 Greetings!     
+👋 Greetings!
 
 👨‍💻 I'm Valeras Narbutas, a developer based in Vilnius, Lithuania.
 
