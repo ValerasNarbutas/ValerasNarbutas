@@ -44,6 +44,7 @@ Valeras Narbutas
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+[![Microsoft Identity platform - Workshop Participant 2023](https://images.credly.com/size/110x110/images/ed1623fe-2402-40c6-8de5-e5d2f7849da6/image.png)](http://www.credly.com/badges/282546a8-cc3d-4662-9903-276964533f56 "Microsoft Identity platform - Workshop Participant 2023")
 [![Blog Author - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/6e5e609e-50f7-4638-ac95-c89e51929f22/image.png)](http://www.credly.com/badges/0fc6726e-679e-432e-9592-ca5845760304 "Blog Author - Microsoft 365 & Power Platform Community 2023")
 [![Power Platform Samples - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/e4425872-9e18-47d9-b03c-ae3db1d34a85/image.png)](http://www.credly.com/badges/0636d730-3098-4aea-928a-59e97e9fd170 "Power Platform Samples - Microsoft 365 & Power Platform Community 2023")
 [![SPFx Web Part Samples - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/17ab4e53-20da-4677-89dc-aaca6cb29a8b/image.png)](http://www.credly.com/badges/3697a2f0-6351-442a-a21a-ebea2355b5e2 "SPFx Web Part Samples - Microsoft 365 & Power Platform Community 2023")
