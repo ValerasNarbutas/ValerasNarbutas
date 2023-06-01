@@ -44,6 +44,8 @@ Valeras Narbutas
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+[![SPFx Web Part Samples - Specialist - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/832dcdaf-1a35-4fcc-81d2-656c1696a767/image.png)](http://www.credly.com/badges/e53f9c02-5aad-45f7-8101-2617f6cc6ae5 "SPFx Web Part Samples - Specialist - Microsoft 365 & Power Platform Community 2023")
+[![Script Samples - Specialist - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/29655309-69d8-4d4a-8485-9fe261089b00/image.png)](http://www.credly.com/badges/56ffffec-6577-4d61-aee2-6b3c4543320a "Script Samples - Specialist - Microsoft 365 & Power Platform Community 2023")
 [![PnP PowerShell - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/b9676330-aac9-4b17-ad74-73f2ecb1a0a0/image.png)](http://www.credly.com/badges/6955489f-3e60-4b07-86b3-bcb3c9a7bab6 "PnP PowerShell - Microsoft 365 & Power Platform Community 2023")
 [![Community Content Author - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/55b8fc29-2b67-48f0-9489-8927d233f6a8/image.png)](http://www.credly.com/badges/f227fd5f-8da8-4c09-aa55-0208f51ce2cc "Community Content Author - Microsoft 365 & Power Platform Community 2023")
 [![Microsoft Identity platform - Workshop Participant 2023](https://images.credly.com/size/110x110/images/ed1623fe-2402-40c6-8de5-e5d2f7849da6/image.png)](http://www.credly.com/badges/282546a8-cc3d-4662-9903-276964533f56 "Microsoft Identity platform - Workshop Participant 2023")
