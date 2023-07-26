@@ -1,7 +1,6 @@
 # Hi there 👋
 
 **About me**
-         
 👋 Greetings!    
      
 👨‍💻 I'm Valeras Narbutas, a developer based in Vilnius, Lithuania.    
