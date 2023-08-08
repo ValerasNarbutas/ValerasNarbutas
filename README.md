@@ -43,6 +43,7 @@ Valeras Narbutas
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+[![Community Call Presenter - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/7e37af78-b381-4cf6-9aa9-762416a5b8f3/image.png)](http://www.credly.com/badges/5cfcb30f-7ac4-4af5-aa84-ea7caadf1f8d "Community Call Presenter - Microsoft 365 & Power Platform Community 2023")
 [![SPFx Web Part Samples - Specialist - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/832dcdaf-1a35-4fcc-81d2-656c1696a767/image.png)](http://www.credly.com/badges/e53f9c02-5aad-45f7-8101-2617f6cc6ae5 "SPFx Web Part Samples - Specialist - Microsoft 365 & Power Platform Community 2023")
 [![Script Samples - Specialist - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/29655309-69d8-4d4a-8485-9fe261089b00/image.png)](http://www.credly.com/badges/56ffffec-6577-4d61-aee2-6b3c4543320a "Script Samples - Specialist - Microsoft 365 & Power Platform Community 2023")
 [![PnP PowerShell - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/b9676330-aac9-4b17-ad74-73f2ecb1a0a0/image.png)](http://www.credly.com/badges/6955489f-3e60-4b07-86b3-bcb3c9a7bab6 "PnP PowerShell - Microsoft 365 & Power Platform Community 2023")
