@@ -43,6 +43,8 @@ Valeras Narbutas
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+[![CLI for Microsoft 365 - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/7d63f7e7-a6be-4530-bf81-7155bf8f931c/image.png)](http://www.credly.com/badges/4cc4acaa-acbb-4731-9ccc-d91d35e6da38 "CLI for Microsoft 365 - Microsoft 365 & Power Platform Community 2023")
+[![Script Samples - Expert - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/e6ab21dd-b265-40b2-9409-1e8f1621e9b2/image.png)](http://www.credly.com/badges/70d035fa-38de-4c7e-89ae-9d555e191a40 "Script Samples - Expert - Microsoft 365 & Power Platform Community 2023")
 [![Community Call Presenter - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/7e37af78-b381-4cf6-9aa9-762416a5b8f3/image.png)](http://www.credly.com/badges/5cfcb30f-7ac4-4af5-aa84-ea7caadf1f8d "Community Call Presenter - Microsoft 365 & Power Platform Community 2023")
 [![SPFx Web Part Samples - Specialist - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/832dcdaf-1a35-4fcc-81d2-656c1696a767/image.png)](http://www.credly.com/badges/e53f9c02-5aad-45f7-8101-2617f6cc6ae5 "SPFx Web Part Samples - Specialist - Microsoft 365 & Power Platform Community 2023")
 [![Script Samples - Specialist - Microsoft 365 & Power Platform Community 2023](https://images.credly.com/size/110x110/images/29655309-69d8-4d4a-8485-9fe261089b00/image.png)](http://www.credly.com/badges/56ffffec-6577-4d61-aee2-6b3c4543320a "Script Samples - Specialist - Microsoft 365 & Power Platform Community 2023")
