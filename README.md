@@ -5,17 +5,19 @@
      
 👨‍💻 I'm Valeras Narbutas, a developer based in Vilnius, Lithuania.    
 
-💻 Currently, I'm contributing to Microsoft 365 Patterns and Practices, an open source initiative that provides guidance and best practices for developing solutions on the Microsoft 365 platform.
+💻 Currently, I'm contributing to Microsoft 365 Patterns and Practices, an open-source initiative that provides guidance and best practices for developing solutions on the Microsoft 365 platform.
 
-💡 I believe that creating open source code and helping the community is important because it allows us to collaborate, learn from each other, and make a positive impact on the world. By contributing to open source projects, we can make technology more accessible, secure, and useful for everyone.
+🌟 I have been recognized as a Microsoft Most Valuable Professional (MVP) in M365 award category for my contributions to the community and the Microsoft ecosystem. This award is a testament to my commitment to sharing knowledge, leading by example, and helping others grow in the tech field.
 
-🙌 I'm proud to be a part of this community and look forward to continuing to contribute to open source initiatives. Thank you for your support!
+💡 I believe that creating open-source code and helping the community is important because it allows us to collaborate, learn from each other, and make a positive impact on the world. By contributing to open source projects, we can make technology more accessible, secure, and useful for everyone.
+
+🙌 I'm proud to be a part of this community and look forward to continuing to contribute to open-source initiatives. Thank you for your support!
 
 🌟 In addition to my work on open source projects, I'm also a mentor in Women in Tech, a program that supports and empowers women in technology.
 
 👩‍🏫 As a mentor, I work with aspiring women technologists to provide guidance, advice, and support as they navigate their careers.
 
-💪 I'm passionate about helping to create a more diverse and inclusive tech industry, and believe that mentorship is one of the most effective ways to do so.
+💪 I'm passionate about helping to create a more diverse and inclusive tech industry and believe that mentorship is one of the most effective ways to do so.
 
 👩‍💻 By working with women in tech, I hope to help inspire the next generation of technologists and create a more equitable and innovative tech industry for all.
 
