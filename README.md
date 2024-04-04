@@ -25,7 +25,9 @@
 
 💬 Ask me about anything [here](https://github.com/valerasnarbutas/valerasnarbutas/issues)  
 
-[![MVP badge](assets/MVP_Badge_Avatar_Preferred_Blue3005_RGB.png | height=110)](https://mvp.microsoft.com/en-US/MVP/profile/a9c4b0a3-5446-4ed8-9ae0-6d7339ab5a2c)
+<a href="https://mvp.microsoft.com/en-US/MVP/profile/a9c4b0a3-5446-4ed8-9ae0-6d7339ab5a2c"><img src="assets/MVP_Badge_Avatar_Preferred_Blue3005_RGB.png" alt="drawing" style="width:150px;"/>
+<br>MVP profile</a>
+
 
 #spfx #MSteamsApps #powershell #typescript #powerplatform #MSGraph #SharingIsCaring #mentor #womenGotech #react #angular
 
