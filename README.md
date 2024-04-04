@@ -3,7 +3,7 @@
 **About me**
 👋 Greetings!    
      
-👨‍💻 I'm Valeras Narbutas, a developer based in Vilnius, Lithuania.    
+👨‍💻 I'm Valeras Narbutas, a developer based in Vilnius, Lithuania. 
 
 💻 Currently, I'm contributing to Microsoft 365 Patterns and Practices, an open-source initiative that provides guidance and best practices for developing solutions on the Microsoft 365 platform.
 
@@ -23,7 +23,9 @@
 
 [📄 View my resume (CV)](https://valerasnarbutas.github.io/cv/)
 
-💬 Ask me about anything [here](https://github.com/valerasnarbutas/valerasnarbutas/issues)     
+💬 Ask me about anything [here](https://github.com/valerasnarbutas/valerasnarbutas/issues)  
+
+[![MVP badge](assets/MVP_Badge_Avatar_Preferred_Blue3005_RGB.png | height=110)](https://mvp.microsoft.com/en-US/MVP/profile/a9c4b0a3-5446-4ed8-9ae0-6d7339ab5a2c)
 
 #spfx #MSteamsApps #powershell #typescript #powerplatform #MSGraph #SharingIsCaring #mentor #womenGotech #react #angular
 
@@ -41,6 +43,7 @@ https://user-images.githubusercontent.com/16476453/220737986-5d6ac71c-48df-45c4-
  Thanks for stopping by!  
 
 Valeras Narbutas
+
 
 ## 🏅 My Badges  
 
