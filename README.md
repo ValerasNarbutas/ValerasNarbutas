@@ -50,6 +50,8 @@ Valeras Narbutas
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+[![PrompTember - Microsoft 365 & Power Platform Community 2024](https://images.credly.com/size/110x110/images/a559e142-21cf-4f7f-83a8-267484ef7fd4/image.png)](http://www.credly.com/badges/5c70a371-3063-44b4-aad0-12c7440d8015 "PrompTember - Microsoft 365 & Power Platform Community 2024")
+[![Script Samples - Microsoft 365 & Power Platform Community 2024](https://images.credly.com/size/110x110/images/0a55ec2f-a81e-4c64-99df-3a570a53678c/image.png)](http://www.credly.com/badges/ff068bda-5da4-40d4-8e9f-9d4922ceb959 "Script Samples - Microsoft 365 & Power Platform Community 2024")
 [![Community Contributor 2024](https://images.credly.com/size/110x110/images/9ff26055-ff49-44cf-818c-515bc01a3f3d/image.png)](http://www.credly.com/badges/2245ac7a-86f2-4fce-9a73-0bcfa8349a5b "Community Contributor 2024")
 [![Slice of Samples Contributor 2023 - Microsoft 365 & Power Platform Community](https://images.credly.com/size/110x110/images/9a41271f-2a73-403c-8d37-beac78fa6b8c/image.png)](http://www.credly.com/badges/d92ac710-be2a-4f1e-b54f-da2277613193 "Slice of Samples Contributor 2023 - Microsoft 365 & Power Platform Community")
 [![PSL Latte-Commits Contributor 2023 - Microsoft 365 & Power Platform Community](https://images.credly.com/size/110x110/images/71e69c0c-f445-43a2-9c0d-644a9d443dc5/image.png)](http://www.credly.com/badges/6785896a-555d-4eb0-bd6e-9d69b6a7ca6b "PSL Latte-Commits Contributor 2023 - Microsoft 365 & Power Platform Community")
