@@ -50,6 +50,7 @@ Valeras Narbutas
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+[![SPFx Web Part Samples - Microsoft 365 & Power Platform Community 2024](https://images.credly.com/size/110x110/images/b21a940a-8ab6-436c-82e8-f4e5a827b67d/image.png)](http://www.credly.com/badges/881ac10a-4670-451b-9a61-cf6108d21b25 "SPFx Web Part Samples - Microsoft 365 & Power Platform Community 2024")
 [![Snippet Sorcerer - Microsoft 365 & Power Platform Community 2024](https://images.credly.com/size/110x110/images/e79857cb-8324-4ceb-815b-e5195032f767/blob)](http://www.credly.com/badges/dc86a97c-811c-4c6f-b888-67cafcb46ca6 "Snippet Sorcerer - Microsoft 365 & Power Platform Community 2024")
 [![Refresh Rangers - Microsoft 365 & Power Platform Community 2024](https://images.credly.com/size/110x110/images/72b65ff2-1541-47c9-9100-acbfd1c3ca90/blob)](http://www.credly.com/badges/f1c86ab5-4ae2-474b-9fa3-9a4b19d9f85c "Refresh Rangers - Microsoft 365 & Power Platform Community 2024")
 [![Hacktoberfest Contributor 2024 - Microsoft 365 & Power Platform Community](https://images.credly.com/size/110x110/images/8fefe13a-84ce-4127-ac6b-5bc9f66c3aeb/blob)](http://www.credly.com/badges/a19a2b14-5884-4554-998a-75d237b9fe43 "Hacktoberfest Contributor 2024 - Microsoft 365 & Power Platform Community")
