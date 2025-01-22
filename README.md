@@ -50,6 +50,8 @@ Valeras Narbutas
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+[![Prompt Pro - Microsoft 365 & Power Platform Community 2024](https://images.credly.com/size/110x110/images/7b44800d-939b-4eb6-bf98-79267a20f689/image.png)](http://www.credly.com/badges/3fa0eb38-b7a8-474c-9759-ec8862bdeb92 "Prompt Pro - Microsoft 365 & Power Platform Community 2024")
+[![Power Platform Samples - Microsoft 365 & Power Platform Community 2024](https://images.credly.com/size/110x110/images/5faae9da-637f-4f4c-901c-f56bf846cf0f/image.png)](http://www.credly.com/badges/19842172-4bf3-4223-9f9e-fa8959f98419 "Power Platform Samples - Microsoft 365 & Power Platform Community 2024")
 [![SPFx Web Part Samples - Microsoft 365 & Power Platform Community 2024](https://images.credly.com/size/110x110/images/b21a940a-8ab6-436c-82e8-f4e5a827b67d/image.png)](http://www.credly.com/badges/881ac10a-4670-451b-9a61-cf6108d21b25 "SPFx Web Part Samples - Microsoft 365 & Power Platform Community 2024")
 [![Snippet Sorcerer - Microsoft 365 & Power Platform Community 2024](https://images.credly.com/size/110x110/images/e79857cb-8324-4ceb-815b-e5195032f767/blob)](http://www.credly.com/badges/dc86a97c-811c-4c6f-b888-67cafcb46ca6 "Snippet Sorcerer - Microsoft 365 & Power Platform Community 2024")
 [![Refresh Rangers - Microsoft 365 & Power Platform Community 2024](https://images.credly.com/size/110x110/images/72b65ff2-1541-47c9-9100-acbfd1c3ca90/blob)](http://www.credly.com/badges/f1c86ab5-4ae2-474b-9fa3-9a4b19d9f85c "Refresh Rangers - Microsoft 365 & Power Platform Community 2024")
