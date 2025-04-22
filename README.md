@@ -50,6 +50,7 @@ Valeras Narbutas
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+[![May the Open Source Be With You - Community Contributor 2025](https://images.credly.com/size/110x110/images/ee135e41-e333-485d-84ec-173d7814dcc2/blob)](http://www.credly.com/badges/e2b5cd3b-ad8d-41ff-a946-677724e15784 "May the Open Source Be With You - Community Contributor 2025")
 [![Snippet Sorcerer - Microsoft 365 & Power Platform Community 2025](https://images.credly.com/size/110x110/images/87b9c45b-95ce-429a-ad12-df77b48cd4f8/blob)](http://www.credly.com/badges/3cb292ea-c960-4cb2-b3c0-e9a9b318c9e7 "Snippet Sorcerer - Microsoft 365 & Power Platform Community 2025")
 [![Prompt Pro - Microsoft 365 & Power Platform Community 2025](https://images.credly.com/size/110x110/images/d8c6261c-7e96-423d-8664-2163ea7169c4/blob)](http://www.credly.com/badges/69dd4b1e-0c88-466c-aa34-0870ff38cced "Prompt Pro - Microsoft 365 & Power Platform Community 2025")
 [![Community Contributor 2025](https://images.credly.com/size/110x110/images/08b547c9-8689-4a48-bb9c-d61156721cb5/blob)](http://www.credly.com/badges/8fdc5842-5a8d-4011-af58-90603dc99732 "Community Contributor 2025")
