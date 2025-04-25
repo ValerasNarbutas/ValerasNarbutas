@@ -50,6 +50,10 @@ Valeras Narbutas
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+[![Copilot Camp - Path Master - Microsoft 365 & Power Platform Community](https://images.credly.com/size/110x110/images/26224436-b856-49ce-a7e0-3a9d627999a0/blob)](http://www.credly.com/badges/2f702553-2d2c-48c9-aaa7-e38e1be1808f "Copilot Camp - Path Master - Microsoft 365 & Power Platform Community")
+[![Copilot Camp - Build Path - Microsoft 365 & Power Platform Community](https://images.credly.com/size/110x110/images/7ba69a9c-42ef-459d-82b2-733ed55cafea/blob)](http://www.credly.com/badges/bb34ad82-b776-442a-98e1-ce5b964a4267 "Copilot Camp - Build Path - Microsoft 365 & Power Platform Community")
+[![Copilot Camp - Extend Path - Microsoft 365 & Power Platform Community](https://images.credly.com/size/110x110/images/0553992d-e853-461c-b672-de4e9750df17/blob)](http://www.credly.com/badges/dc82e483-2d4f-477d-b1c9-3625fe0ec938 "Copilot Camp - Extend Path - Microsoft 365 & Power Platform Community")
+[![Copilot Camp - Make Path - Microsoft 365 & Power Platform Community](https://images.credly.com/size/110x110/images/52be492c-36aa-4346-b742-ff9c4182026a/blob)](http://www.credly.com/badges/78cb3fec-8155-432e-8308-feb5b0425e4a "Copilot Camp - Make Path - Microsoft 365 & Power Platform Community")
 [![May the Open Source Be With You - Community Contributor 2025](https://images.credly.com/size/110x110/images/ee135e41-e333-485d-84ec-173d7814dcc2/blob)](http://www.credly.com/badges/e2b5cd3b-ad8d-41ff-a946-677724e15784 "May the Open Source Be With You - Community Contributor 2025")
 [![Snippet Sorcerer - Microsoft 365 & Power Platform Community 2025](https://images.credly.com/size/110x110/images/87b9c45b-95ce-429a-ad12-df77b48cd4f8/blob)](http://www.credly.com/badges/3cb292ea-c960-4cb2-b3c0-e9a9b318c9e7 "Snippet Sorcerer - Microsoft 365 & Power Platform Community 2025")
 [![Prompt Pro - Microsoft 365 & Power Platform Community 2025](https://images.credly.com/size/110x110/images/d8c6261c-7e96-423d-8664-2163ea7169c4/blob)](http://www.credly.com/badges/69dd4b1e-0c88-466c-aa34-0870ff38cced "Prompt Pro - Microsoft 365 & Power Platform Community 2025")
