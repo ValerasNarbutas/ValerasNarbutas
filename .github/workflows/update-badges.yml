@@ -18,3 +18,4 @@ jobs:
           GH_TOKEN: ${{ secrets.VALERAS_NARBUTAS }}
           COMMIT_MESSAGE: "My commit message to update badges" # optional
           CREDLY_USER: valeras-narbutas # optional, but default will use the same from github
+          NUMBER_LAST_BADGES: 50
