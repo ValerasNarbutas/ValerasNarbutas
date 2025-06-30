@@ -50,6 +50,9 @@ Valeras Narbutas
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+[![Script Samples - Microsoft 365 & Power Platform Community 2025](https://images.credly.com/size/110x110/images/c8bae8c8-f583-47af-8549-d33d18967dfa/blob)](http://www.credly.com/badges/c1b0f375-7c04-4b76-bb42-8a8aba0d39b0 "Script Samples - Microsoft 365 & Power Platform Community 2025")
+[![Rise of the Contributor - Community Contributor 2025](https://images.credly.com/size/110x110/images/f14bfb85-6857-4e22-8fc7-8c8912eff1af/blob)](http://www.credly.com/badges/f06b70dc-4b78-4683-a207-e331bb43acac "Rise of the Contributor - Community Contributor 2025")
+[![The Fork Awakens - Community Contributor 2025](https://images.credly.com/size/110x110/images/c4a76eb6-7569-41cc-9adc-bedd31561d16/blob)](http://www.credly.com/badges/b511ff4d-d97c-43b9-bca0-5f8fe163c239 "The Fork Awakens - Community Contributor 2025")
 [![Copilot Camp - Path Master - Microsoft 365 & Power Platform Community](https://images.credly.com/size/110x110/images/26224436-b856-49ce-a7e0-3a9d627999a0/blob)](http://www.credly.com/badges/2f702553-2d2c-48c9-aaa7-e38e1be1808f "Copilot Camp - Path Master - Microsoft 365 & Power Platform Community")
 [![Copilot Camp - Build Path - Microsoft 365 & Power Platform Community](https://images.credly.com/size/110x110/images/7ba69a9c-42ef-459d-82b2-733ed55cafea/blob)](http://www.credly.com/badges/bb34ad82-b776-442a-98e1-ce5b964a4267 "Copilot Camp - Build Path - Microsoft 365 & Power Platform Community")
 [![Copilot Camp - Extend Path - Microsoft 365 & Power Platform Community](https://images.credly.com/size/110x110/images/0553992d-e853-461c-b672-de4e9750df17/blob)](http://www.credly.com/badges/dc82e483-2d4f-477d-b1c9-3625fe0ec938 "Copilot Camp - Extend Path - Microsoft 365 & Power Platform Community")
