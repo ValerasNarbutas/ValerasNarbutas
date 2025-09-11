@@ -50,6 +50,7 @@ Valeras Narbutas
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/eb62af11-03d8-4d5f-97c1-48f1e90aa272" title="List Formatting - Microsoft 365 & Power Platform Community 2025"><img src="https://images.credly.com/size/80x80/images/66f1b775-d7a1-4167-b647-44ba57ce5b8d/blob" alt="List Formatting - Microsoft 365 & Power Platform Community 2025" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/300e2576-a279-43d2-9604-a80919ad8edd" title="Agent Academy - Recruit - Microsoft 365 & Power Platform Community"><img src="https://images.credly.com/size/80x80/images/1d8d4a86-cda8-4a29-8255-d216e8516bc6/blob" alt="Agent Academy - Recruit - Microsoft 365 & Power Platform Community" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/f59361a1-b62b-4d39-9b9b-22d65cbdac5f" title="2025 Microsoft Most Valuable Professional (MVP)"><img src="https://images.credly.com/size/80x80/images/00e5354b-b9fc-4bef-8732-59b419a7c16b/blob" alt="2025 Microsoft Most Valuable Professional (MVP)" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/d382f59b-de37-423e-9bb4-71915c8341df" title="Lasso of Learning - Community Contributor 2025 - Microsoft 365 & Power Platform Community"><img src="https://images.credly.com/size/80x80/images/6139a78b-544f-4144-b207-f11e687dbd96/blob" alt="Lasso of Learning - Community Contributor 2025 - Microsoft 365 & Power Platform Community" width="80" height="80"></a>
