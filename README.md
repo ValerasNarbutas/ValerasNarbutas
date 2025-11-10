@@ -50,6 +50,7 @@ Valeras Narbutas
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/cb03a7b1-06eb-420b-8ad5-54371082127f" title="Agentic AI Deal Ready"><img src="https://images.credly.com/size/80x80/images/a89079be-7f4a-406b-b196-dd78464ddbc6/blob" alt="Agentic AI Deal Ready" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/247464e8-0be9-40e8-bbb6-96ac3f78c9b5" title="Copilot Business Value - Proficient"><img src="https://images.credly.com/size/80x80/images/8de19275-e160-4d51-b9a6-e1d0fedcc3c9/blob" alt="Copilot Business Value - Proficient" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/eb62af11-03d8-4d5f-97c1-48f1e90aa272" title="List Formatting - Microsoft 365 & Power Platform Community 2025"><img src="https://images.credly.com/size/80x80/images/66f1b775-d7a1-4167-b647-44ba57ce5b8d/blob" alt="List Formatting - Microsoft 365 & Power Platform Community 2025" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/300e2576-a279-43d2-9604-a80919ad8edd" title="Agent Academy - Recruit - Microsoft 365 & Power Platform Community"><img src="https://images.credly.com/size/80x80/images/1d8d4a86-cda8-4a29-8255-d216e8516bc6/blob" alt="Agent Academy - Recruit - Microsoft 365 & Power Platform Community" width="80" height="80"></a>
