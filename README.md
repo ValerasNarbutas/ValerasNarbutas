@@ -133,21 +133,6 @@ Thanks for stopping by! 🚀
 
 ---
 
-## 📈 Activity Graph
-[![Valeras's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ValerasNarbutas&theme=react-dark&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
-## 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=ValerasNarbutas&color=blue&style=flat-square&label=Profile+Views)
-
----
-
-## ✨ Dynamic Header
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&width=600&lines=Microsoft+MVP+%F0%9F%8F%86;M365+Architect+%26+Lead+Developer;Power+Platform+Expert+%E2%9A%A1;18%2B+Years+of+Experience+%F0%9F%9A%80;Open+Source+Contributor+%F0%9F%92%BB;Community+Mentor+%F0%9F%8C%9F)](https://git.io/typing-svg)
-
----
-
 ## 🛠️ Tech Stack Badges
 
 ### Frontend & Frameworks
