@@ -67,6 +67,7 @@ Thanks for stopping by! 🚀
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/086da830-d247-463c-94ca-70982e9cdbf6" title="Hacktoberfest Contributor 2025 - Microsoft 365 & Power Platform Community"><img src="https://images.credly.com/size/80x80/images/fdcc2674-3afd-45b8-9cfc-3a094135cc56/blob" alt="Hacktoberfest Contributor 2025 - Microsoft 365 & Power Platform Community" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4de79e04-143f-48c8-bc73-c11420ef1131" title="Agentic AI Solution Architecture"><img src="https://images.credly.com/size/80x80/images/85c65375-5acd-4c50-bc3e-06e7ed57a0bc/blob" alt="Agentic AI Solution Architecture" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/0bfa12f2-8db2-45ab-abbb-0f2e9ca8da39" title="Deploy and adopt Microsoft 365 Copilot + Agents -​ Proficient"><img src="https://images.credly.com/size/80x80/images/8d212736-a0ab-4efa-841a-ab48707cc8b9/blob" alt="Deploy and adopt Microsoft 365 Copilot + Agents -​ Proficient" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/f5a4e7ec-b045-40b8-8116-da81315d86a2" title="Simplify agent development with Copilot Studio -​ Proficient"><img src="https://images.credly.com/size/80x80/images/2edd90fb-3bc5-441e-b970-2dfc1c5799eb/blob" alt="Simplify agent development with Copilot Studio -​ Proficient" width="80" height="80"></a>
