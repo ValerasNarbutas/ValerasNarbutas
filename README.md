@@ -67,6 +67,7 @@ Thanks for stopping by! 🚀
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/b45bb395-b2e0-46cc-8818-ac34b28b5777" title="Cosmic Contributor - Community Contributor 2025 - Microsoft 365 & Power Platform Community"><img src="https://images.credly.com/size/80x80/images/9f28c2b5-93c2-41b1-8662-b0d33483725b/blob" alt="Cosmic Contributor - Community Contributor 2025 - Microsoft 365 & Power Platform Community" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/086da830-d247-463c-94ca-70982e9cdbf6" title="Hacktoberfest Contributor 2025 - Microsoft 365 & Power Platform Community"><img src="https://images.credly.com/size/80x80/images/fdcc2674-3afd-45b8-9cfc-3a094135cc56/blob" alt="Hacktoberfest Contributor 2025 - Microsoft 365 & Power Platform Community" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/ea5cb7ae-39e9-47e7-a0ab-83eb336bf20c" title="Slice of Samples Contributor 2025 - Microsoft 365 & Power Platform Community"><img src="https://images.credly.com/size/80x80/images/274b7c5b-4785-444b-9703-c3ca5b5b7451/blob" alt="Slice of Samples Contributor 2025 - Microsoft 365 & Power Platform Community" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4de79e04-143f-48c8-bc73-c11420ef1131" title="Agentic AI Solution Architecture"><img src="https://images.credly.com/size/80x80/images/85c65375-5acd-4c50-bc3e-06e7ed57a0bc/blob" alt="Agentic AI Solution Architecture" width="80" height="80"></a>
