@@ -67,6 +67,7 @@ Thanks for stopping by! 🚀
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+<a href="https://www.credly.com/badges/d6b416f9-a929-4e28-bb3a-567c8ec2ac20" title="Contributing is my Favorite 2025 - Microsoft 365 & Power Platform Community"><img src="https://images.credly.com/size/80x80/images/36db864b-3b01-43e2-a9e5-eb8e569eccd6/blob" alt="Contributing is my Favorite 2025 - Microsoft 365 & Power Platform Community" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/4dcadfee-31d8-47f4-a743-573a7e8b7987" title="Season of Gitting 2025 - Microsoft 365 & Power Platform Community"><img src="https://images.credly.com/size/80x80/images/59110233-3402-45d6-96a3-c826dce5d44e/blob" alt="Season of Gitting 2025 - Microsoft 365 & Power Platform Community" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/f6923007-2e57-4c4f-8ed6-c78defe66e60" title="This is my Community - I Must Contribute 2025 - Microsoft 365 & Power Platform Community"><img src="https://images.credly.com/size/80x80/images/4adfdb10-609f-4f35-b55a-a09c5d337ab3/blob" alt="This is my Community - I Must Contribute 2025 - Microsoft 365 & Power Platform Community" width="80" height="80"></a>
 <a href="https://www.credly.com/badges/78011d39-c8a9-4c45-8c3f-cd5f8a54b11d" title="1.21 Gigabit Contributor 2025 - Microsoft 365 & Power Platform Community"><img src="https://images.credly.com/size/80x80/images/aaa519ab-f31e-459c-bdb4-f705959744ca/blob" alt="1.21 Gigabit Contributor 2025 - Microsoft 365 & Power Platform Community" width="80" height="80"></a>
