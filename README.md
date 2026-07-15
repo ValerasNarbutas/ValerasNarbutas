@@ -67,6 +67,7 @@ Thanks for stopping by! 🚀
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+[![2026-2027 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/80x80/images/c4da2c74-dd74-4a97-a433-d8c21f06ca65/blob)](https://www.credly.com/badges/447f0fd2-db6e-4648-bc2b-64f63555c80d)
 [![Modern Search - Microsoft 365 & Power Platform Community 2025](https://images.credly.com/size/80x80/images/9564f6e8-d8ad-4010-9cdb-12df0f285764/blob)](https://www.credly.com/badges/a4af92ca-8f55-4939-9f3c-7ba47e33f50a)
 [![Property Controls - Microsoft 365 & Power Platform Community 2025](https://images.credly.com/size/80x80/images/3dc3fb7e-948d-47c6-9535-6df9b56329ed/blob)](https://www.credly.com/badges/7b3b99a6-1cc5-4915-a5ba-aeec0b340790)
 [![Script Samples Expert - Microsoft 365 & Power Platform Community 2025](https://images.credly.com/size/80x80/images/6e064b84-b21d-48fe-a4fa-22308e374c7b/blob)](https://www.credly.com/badges/68cacd1e-e50c-4310-b2d1-b6b3c556223c)
@@ -114,7 +115,6 @@ Thanks for stopping by! 🚀
 [![Community Contributor 2024](https://images.credly.com/size/80x80/images/9ff26055-ff49-44cf-818c-515bc01a3f3d/image.png)](https://www.credly.com/badges/2245ac7a-86f2-4fce-9a73-0bcfa8349a5b)
 [![Slice of Samples Contributor 2023 - Microsoft 365 & Power Platform Community](https://images.credly.com/size/80x80/images/9a41271f-2a73-403c-8d37-beac78fa6b8c/image.png)](https://www.credly.com/badges/d92ac710-be2a-4f1e-b54f-da2277613193)
 [![PSL Latte-Commits Contributor 2023 - Microsoft 365 & Power Platform Community](https://images.credly.com/size/80x80/images/71e69c0c-f445-43a2-9c0d-644a9d443dc5/image.png)](https://www.credly.com/badges/6785896a-555d-4eb0-bd6e-9d69b6a7ca6b)
-[![Season of Gitting 2023 - Microsoft 365 & Power Platform Community](https://images.credly.com/size/80x80/images/5b5c6cd6-8e09-4325-9935-f6116b312259/image.png)](https://www.credly.com/badges/3e630faa-697e-4941-9076-88b73c792e52)
 <!--END_SECTION:badges-->
 
 
