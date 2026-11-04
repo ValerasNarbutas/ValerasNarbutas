@@ -67,6 +67,7 @@ Thanks for stopping by! 🚀
 ## 🏅 My Badges  
 
 <!--START_SECTION:badges-->
+[![Community Contributor - Microsoft 365 & Power Platform Community 2026](https://images.credly.com/size/80x80/images/76dbe4bd-e45c-4c7a-a079-f5b6e7a893bd/blob)](https://www.credly.com/badges/3c077af4-84e2-4bb4-a91e-094b18b6e712)
 [![2026-2027 Microsoft Most Valuable Professional (MVP)](https://images.credly.com/size/80x80/images/c4da2c74-dd74-4a97-a433-d8c21f06ca65/blob)](https://www.credly.com/badges/447f0fd2-db6e-4648-bc2b-64f63555c80d)
 [![Modern Search - Microsoft 365 & Power Platform Community 2025](https://images.credly.com/size/80x80/images/9564f6e8-d8ad-4010-9cdb-12df0f285764/blob)](https://www.credly.com/badges/a4af92ca-8f55-4939-9f3c-7ba47e33f50a)
 [![Property Controls - Microsoft 365 & Power Platform Community 2025](https://images.credly.com/size/80x80/images/3dc3fb7e-948d-47c6-9535-6df9b56329ed/blob)](https://www.credly.com/badges/7b3b99a6-1cc5-4915-a5ba-aeec0b340790)
